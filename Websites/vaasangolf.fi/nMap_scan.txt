@@ -1,8 +1,0 @@
-----------------------------------------------------
-Host : 80.69.164.63 (prod4.vik.fi)
-State : up
-----------
-Protocol : tcp
-port : 23	state : filtered
-port : 24	state : filtered
-port : 25	state : filtered
