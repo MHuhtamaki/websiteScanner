@@ -1,0 +1,8 @@
+----------------------------------------------------
+Host : 54.186.250.79 (ec2-54-186-250-79.us-west-2.compute.amazonaws.com)
+State : up
+----------
+Protocol : tcp
+port : 23	state : filtered
+port : 24	state : filtered
+port : 25	state : filtered
